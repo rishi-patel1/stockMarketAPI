@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maanavshah/stock-market-india.git"
+    "url": "git+https://github.com/rishi-patel1/stockMarketAPI.git"
   },
   "keywords": [
     "api",
@@ -23,12 +23,12 @@
     "node",
     "express"
   ],
-  "author": "Maanav Shah",
+  "author": "Rishi Patel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maanavshah/stock-market-india/issues"
+    "url": "https://github.com/rishi-patel1/stockMarketAPI.git/issues"
   },
-  "homepage": "https://github.com/maanavshah/stock-market-india#readme",
+  "homepage": "https://github.com/rishi-patel1/stockMarketAPI.git#readme",
   "dependencies": {
     "axios": "^0.18.1",
     "express": "^4.18.2",
